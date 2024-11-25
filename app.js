@@ -1,4 +1,4 @@
-const apiKey = ' 985c6af9-d4f0-44de-969a-e890d72700d3'; // Replace with your Fortnite API key
+const apiKey = '985c6af9-d4f0-44de-969a-e890d72700d3'; // Replace with your Fortnite API key
 const apiUrl = 'https://api.fortniteapi.io/v1/stats?username=';
 
 async function getPlayerStats() {
